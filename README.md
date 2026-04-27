@@ -2,7 +2,7 @@
 
 A curated collection of **writing-related mind map ideas and titles** turned into a GitHub-ready repository.
 
-This repo is based on the writing mind map list you shared, which includes topics around essays, creative writing, literature, blogging, business writing, and writing productivity. fileciteturn0file0
+This repo is based on the writing mind map list you shared, which includes topics around essays, creative writing, literature, blogging, business writing, and writing productivity.
 
 ## Why this repo
 Writing can feel messy when ideas stay in plain notes. Mind maps make it easier to:
